@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Personal gitignore file of Frederic Marx",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "node --test"
   },
