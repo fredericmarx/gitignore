@@ -1,5 +1,7 @@
 # `@fredericmarx/gitignore`
 
+[![Node.js CI](https://github.com/fredericmarx/gitignore/actions/workflows/node.js.yml/badge.svg)](https://github.com/fredericmarx/gitignore/actions/workflows/node.js.yml) [![Node.js Package](https://github.com/fredericmarx/gitignore/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/fredericmarx/gitignore/actions/workflows/npm-publish.yml)
+
 When you think to yourself “Wouldn’t it be cool if I could just run `npx @myname/gitignore` instead of manually copying it over from my previous project every time” and then it’s suddenly 7pm.
 
 ## Usage
