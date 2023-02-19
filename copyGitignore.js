@@ -7,7 +7,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const workingDirectory = process.cwd();
-const filename = ".gitignore";
+const filename = "gitignore";
 const defaultSourcePath = __dirname + "/" + filename;
 const defaultTargetPath = workingDirectory + "/" + filename;
 
