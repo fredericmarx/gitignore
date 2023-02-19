@@ -1,6 +1,6 @@
 {
   "name": "@fredericmarx/gitignore",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Personal gitignore file of Frederic Marx",
   "main": "index.js",
   "bin": "index.js",
