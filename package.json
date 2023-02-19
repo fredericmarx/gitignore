@@ -6,13 +6,14 @@
   "bin": "index.js",
   "scripts": {
     "test": "node --test",
-    "prepublish": "node ."
+    "updateGitignore": "node ."
   },
   "type": "module",
   "keywords": [],
   "author": "Frederic Marx",
   "license": "MIT",
   "devDependencies": {
+    "husky": "^8.0.3",
     "mock-fs": "^5.2.0"
   }
 }
