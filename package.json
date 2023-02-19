@@ -9,7 +9,7 @@
     "updateGitignore": "node ."
   },
   "type": "module",
-  "keywords": [],
+  "keywords": ["gitignore", "npx", "cli", "DS_Store"],
   "author": "Frederic Marx",
   "license": "MIT",
   "devDependencies": {
